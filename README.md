@@ -2,4 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olkanaut&langs_count=6&layout=compact&theme=tokyonight&hide=shell,Makefile,roff,php&hide_border=true&include_all_commits=true&count_private=true)
 
+<img src=https://komarev.com/ghpvc/?username = Olkanaut/>
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Olkanaut)
